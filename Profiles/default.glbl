@@ -3,7 +3,7 @@
    <description></description>
    <name>default</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
       <initValue>10</initValue>
@@ -23,5 +23,10 @@
       <description></description>
       <initValue>5</initValue>
       <name>G_ShortTimeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'com.punchh.caferio'</initValue>
+      <name>caferio_dev</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
