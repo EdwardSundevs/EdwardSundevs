@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Continue_as_a_Gues_Dev</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99b325db-c8e3-4549-81ec-07306c520828</testCaseGuid>
+   <variable>
+      <defaultValue>'caferio.com'</defaultValue>
+      <description></description>
+      <id>aee2de41-c90a-4999-a5f6-b1a6e8c85c1b</id>
+      <masked>false</masked>
+      <name>urlGuest_Dev</name>
+   </variable>
+</TestCaseEntity>

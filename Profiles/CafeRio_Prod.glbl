@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>CafeRio_Prod</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>com.punchh.caferio</description>
+      <initValue>'com.punchh.caferio'</initValue>
+      <name>cafeRio_Prod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lorena.restrepo@sundevs.com'</initValue>
+      <name>UserEmail_Prod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Sundev_2021'</initValue>
+      <name>Password_Prod</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Complete_Sign_Up</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>da9075c7-5ec9-4318-9599-81c422b6b518</testSuiteGuid>
+   <testCaseLink>
+      <guid>ed17aa1f-cbdf-46cd-a47a-23f14c446b47</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SignUp/SignUp_Session_Dashboard_Success</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9da7300b-4230-4993-a07f-2f8c9e76540e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SignUp/SignUp</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>9da7300b-4230-4993-a07f-2f8c9e76540e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>220f96ef-6e8d-42b4-b8bf-09bda0fc2a40</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9da7300b-4230-4993-a07f-2f8c9e76540e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lastName</value>
+         <variableId>2a2e63c9-1ef1-45e2-bb11-e5db84c28638</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9da7300b-4230-4993-a07f-2f8c9e76540e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>2311b8d0-0e27-4f76-a6bc-2db834c4a99f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9da7300b-4230-4993-a07f-2f8c9e76540e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>phone</value>
+         <variableId>a2be7419-f844-478e-94bc-8e49e576f5ba</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9da7300b-4230-4993-a07f-2f8c9e76540e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>43619d8a-1c76-46db-a3aa-b8908051b4cc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9da7300b-4230-4993-a07f-2f8c9e76540e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>confirm_Password</value>
+         <variableId>a45ab22c-14f7-40bc-be92-1721a31d7ed8</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b57bc5e5-8e97-4c26-a250-a4677514bb8a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Continue_as_a_Guest/Continue_as_a_Gues_Dev</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>aee2de41-c90a-4999-a5f6-b1a6e8c85c1b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c061aac0-5ad7-4c8b-b336-a2c6a397a57a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Login_Error/Login_Error</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2b55c012-546f-4fd0-b298-c91391ade23c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/Login_Success/Login_Success_Dev</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3979ab20-6b1d-4214-8b1b-c2d9f9a49f8c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SignUp/SignUp_General_Alert</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

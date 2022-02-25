@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SignUp_Session_Dashboard_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>812ddd1b-c8ba-4bc4-9c47-874c9f89907b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Name</description>
+      <id>220f96ef-6e8d-42b4-b8bf-09bda0fc2a40</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>LastName</description>
+      <id>2a2e63c9-1ef1-45e2-bb11-e5db84c28638</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Email</description>
+      <id>2311b8d0-0e27-4f76-a6bc-2db834c4a99f</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Phone</description>
+      <id>a2be7419-f844-478e-94bc-8e49e576f5ba</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Password</description>
+      <id>43619d8a-1c76-46db-a3aa-b8908051b4cc</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Confirm Password</description>
+      <id>a45ab22c-14f7-40bc-be92-1721a31d7ed8</id>
+      <masked>false</masked>
+      <name>confirm_Password</name>
+   </variable>
+</TestCaseEntity>

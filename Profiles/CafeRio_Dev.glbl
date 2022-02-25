@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>CafeRio_Dev</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>com.punchh.caferio</description>
+      <initValue>'com.punchh.caferio'</initValue>
+      <name>cafeRio_dev</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lorenreshen@gmail.com'</initValue>
+      <name>User_Email_Dev</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Sundevs_2021'</initValue>
+      <name>Password_Dev</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

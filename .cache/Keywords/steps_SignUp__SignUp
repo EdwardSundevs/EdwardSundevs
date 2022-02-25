@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "7F5290FC73AA443CFE3222688A037732",
+  "keywordClasses": [
+    {
+      "name": "steps_SignUp.SignUp",
+      "keywordMethods": [
+        {
+          "name": "getCurrentSessionMobileDriver",
+          "parameters": [],
+          "javadoc": "/**\n\t * Get mobile driver for current session\n\t * @return mobile driver for current session\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
